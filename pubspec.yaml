@@ -5,9 +5,9 @@ author: AppTree Software<flutter@apptreesoftware.com>
 homepage: https://github.com/apptreesoftware/flutter_google_map_view
 
 dependencies:
-  uri:
-    git:
-      url: https://github.com/pcejas/uri.dart.git
+  uri: 0.11.3+1
+  #  git:
+  #    url: https://github.com/pcejas/uri.dart.git
   flutter:
     sdk: flutter
 
